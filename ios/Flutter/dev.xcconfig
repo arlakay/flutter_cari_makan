@@ -1,0 +1,17 @@
+//
+//  dev.xcconfig
+//  Runner
+//
+//  Created by Ersa Dimitri (ID) on 13/10/19.
+//  Copyright © 2019 The Chromium Authors. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include "Pods/Target Support Files/Pods-Runner/Pods-Runner.debug-dev.xcconfig"
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_dev.dart
+BUNDLE_DISPLAY_NAME=Cari Makan Dev
+PRODUCT_BUNDLE_IDENTIFIER=cari.makan.com.dev
+

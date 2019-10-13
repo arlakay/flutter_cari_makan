@@ -1,4 +1,4 @@
-package com.example.cari_makan;
+package cari.makan.com;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
